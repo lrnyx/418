@@ -1,0 +1,12 @@
+terratorch==1.2.4
+diffusers==0.30.0
+gradio==4.0.0
+albumentations==1.3.1
+lightning==2.x.x
+timm==x.x.x
+torch==2.x.x
+gdown==x.x.x
+tensorboard==x.x.x
+opencv-python==x.x.x
+numpy==x.x.x
+pyyaml==x.x.x
